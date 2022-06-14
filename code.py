@@ -1,7 +1,7 @@
 # Python3 program to add two numbers
 
-num1 = 150
-num2 = 120
+num1 = 150342
+num2 = 12760
 
 # Adding two nos
 sum = num1 + num2
